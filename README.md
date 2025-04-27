@@ -1,2 +1,2 @@
 # beacon-db
-Database scripts and assets
+Beacon database scripts and assets
